@@ -1,0 +1,4 @@
+#Fri Jun 17 14:25:44 ICT 2022
+base.0=/Users/thanhdx/Desktop/project/speech_to_text_example/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

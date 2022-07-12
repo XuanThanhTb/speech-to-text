@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/speech_to_text_example/BuildConfig.java
+ com.example.speech_to_text_example.BuildConfig
